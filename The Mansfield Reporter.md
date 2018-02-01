@@ -3,8 +3,8 @@
 <img src="https://github.com/mlupo/artwork-docs/raw/master/images/Mansfield_screen_off.JPG" width="600">
 
 ## Basic Info
-**Year:** 2015\  
-**Materials:** Vintage 8mm editing station, [Raspberry Pi](https://www.raspberrypi.org/)  
+**Year:** 2015     
+**Materials:** Vintage 8mm editing station, [Raspberry Pi](https://www.raspberrypi.org/)      
 **Dimensions:**  w 11", h 8", d 6"
 
 ## Description
@@ -30,6 +30,6 @@ As long as the outlined shutdown procedure is followed, there should be no other
 <img src="https://github.com/mlupo/artwork-docs/raw/master/images/animated-morality.gif">
 
 ## Further Reading
-**Blog post:** <https://maxlupo.com/mansfield-reporter/>  
-**Source files:** *forthcoming*  
-**Full resolution images:** <https://drive.google.com/drive/folders/1PHH9C1Y3jwUbRDI2Ql60bMIWz6fIhCgK>  *note: the gifs in that folder will need to be downloaded to be viewed*
+**Blog post:** <https://maxlupo.com/mansfield-reporter/>    
+**Source files:** *forthcoming*    
+**Full resolution images:** <https://drive.google.com/drive/folders/1PHH9C1Y3jwUbRDI2Ql60bMIWz6fIhCgK> *note: the gifs in that folder will need to be downloaded to be viewed*

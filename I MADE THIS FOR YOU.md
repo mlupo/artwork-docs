@@ -3,8 +3,8 @@
 <img src="https://github.com/mlupo/artwork-docs/raw/master/images/I_Made_this_for_you.jpg" width="600">
 
 ## Basic Info
-**Year:** 2015\  
-**Medium:** a performance and installation\  
+**Year:** 2015    
+**Medium:** a performance and installation    
 **Dimensions:** variable
 
 ## Description
@@ -21,5 +21,5 @@ The exhibition takes a humorous and strange set of objects, and places them a bi
 <img src="https://github.com/mlupo/artwork-docs/raw/master/images/I_made_this_piano.jpg" width="600">
 
 ## Further Reading
-**Blog post:** <https://maxlupo.com/i-made-this-for-you/>\  
+**Blog post:** <https://maxlupo.com/i-made-this-for-you/>    
 **Full resolution images:** <https://drive.google.com/drive/folders/16hs3ISQN4Q3XSOnU3C6cJqXF2zddoI97>

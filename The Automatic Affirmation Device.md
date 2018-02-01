@@ -3,8 +3,8 @@
 <img src="https://github.com/mlupo/artwork-docs/raw/master/images/Automatic_Affirmation-red.jpg" width="500">
 
 ## Basic Info
-**Year:** 2014\  
-**Materials:** 3D printed plastic, misc electronics  \
+**Year:** 2014     
+**Materials:** 3D printed plastic, misc electronics    
 **Dimensions:** w 2.4", h 4", d 1.5"  
 
 ## Description
@@ -19,6 +19,6 @@ The device is powered by a LED light, and two AAA batteries. In normal use, the 
 <img src="https://github.com/mlupo/artwork-docs/raw/master/images/Automatic_YES.gif">
 
 ## Further Reading
-**Blog post:** <https://maxlupo.com/the-automatic-affirmation-device/>  
-**Source files:** 3D printing sources for Version 2, <https://www.thingiverse.com/thing:7060>   
+**Blog post:** <https://maxlupo.com/the-automatic-affirmation-device/>\  
+**Source files:** 3D printing sources for Version 2, <https://www.thingiverse.com/thing:7060>\   
 **Full resolution images:** <https://drive.google.com/drive/folders/1zjUPazpFdjb4juAJj-OG27j58QZ7upNX>  
