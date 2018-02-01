@@ -1,18 +1,16 @@
 # The Mansfield Reporter
 
-<img src="./images/Mansfield_screen_off.JPG" width="600">
+<img src="https://github.com/mlupo/artwork-docs/raw/master/images/Mansfield_screen_off.JPG" width="600">
 
 ## Basic Info
-**Year:** 2015  
-**Materials:**   
+**Year:** 2015\  
+**Materials:** Vintage 8mm editing station, [Raspberry Pi](https://www.raspberrypi.org/)  
 **Dimensions:**  w 11", h 8", d 6"
 
 ## Description
 The Mansfield Reporter is a simple device which can generate new text from some of history's greatest authors. By pressing the red button, you will be shown a new passage from either Friedrich Nietzsche, William Shakespeare, or Gertrude Stein. Or, press the black button to combine all of the authors into one super-author, and generate a unique passage from their combined corpus of text.
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pomt0gw3bvc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pomt0gw3bvc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 The device pictured above is the main implementation of this artwork: the embedded screen shows the generated text one word at a time against a selected image. However, the process has been adapted to generate videos for live projection, or to post text and gifs to a [twitter feed](https://twitter.com/yupsurewhatever).
 
@@ -25,11 +23,11 @@ As long as the outlined shutdown procedure is followed, there should be no other
 
 ## Additional Images
 
-<img src="./images/Mansfield_Reporter_02.JPG" width="600">
+<img src="https://github.com/mlupo/artwork-docs/raw/master/images/Mansfield_Reporter_02.JPG" width="600">
 
-<img src="./images/animated-decay.gif">
+<img src="https://github.com/mlupo/artwork-docs/raw/master/images/animated-decay.gif">
 
-<img src="./images/animated-morality.gif">
+<img src="https://github.com/mlupo/artwork-docs/raw/master/images/animated-morality.gif">
 
 ## Further Reading
 **Blog post:** <https://maxlupo.com/mansfield-reporter/>  
