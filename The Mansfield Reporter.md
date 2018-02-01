@@ -3,14 +3,15 @@
 <img src="https://github.com/mlupo/artwork-docs/raw/master/images/Mansfield_screen_off.JPG" width="600">
 
 ## Basic Info
-**Year:** 2015     
-**Materials:** Vintage 8mm editing station, [Raspberry Pi](https://www.raspberrypi.org/)      
-**Dimensions:**  w 11", h 8", d 6"
+- **Year:** 2015     
+- **Materials:** Vintage 8mm editing station, [Raspberry Pi](https://www.raspberrypi.org/)      
+- **Dimensions:**  w 11", h 8", d 6"
 
 ## Description
 The Mansfield Reporter is a simple device which can generate new text from some of history's greatest authors. By pressing the red button, you will be shown a new passage from either Friedrich Nietzsche, William Shakespeare, or Gertrude Stein. Or, press the black button to combine all of the authors into one super-author, and generate a unique passage from their combined corpus of text.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pomt0gw3bvc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pomt0gw3bvc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
+
 
 The device pictured above is the main implementation of this artwork: the embedded screen shows the generated text one word at a time against a selected image. However, the process has been adapted to generate videos for live projection, or to post text and gifs to a [twitter feed](https://twitter.com/yupsurewhatever).
 
@@ -30,6 +31,6 @@ As long as the outlined shutdown procedure is followed, there should be no other
 <img src="https://github.com/mlupo/artwork-docs/raw/master/images/animated-morality.gif">
 
 ## Further Reading
-**Blog post:** <https://maxlupo.com/mansfield-reporter/>    
-**Source files:** *forthcoming*    
-**Full resolution images:** <https://drive.google.com/drive/folders/1PHH9C1Y3jwUbRDI2Ql60bMIWz6fIhCgK> *note: the gifs in that folder will need to be downloaded to be viewed*
+- **Blog post:** <https://maxlupo.com/mansfield-reporter/>    
+- **Source files:** *forthcoming*    
+- **Full resolution images:** <https://drive.google.com/drive/folders/1PHH9C1Y3jwUbRDI2Ql60bMIWz6fIhCgK> *note: the gifs in that folder will need to be downloaded to be viewed*
