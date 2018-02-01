@@ -1,6 +1,6 @@
 # The Automatic Affirmation Device (Version 3)
 
-<img src="https://github.com/mlupo/artwork-docs/raw/master/images/Automatic_Affirmation-red.jpg" width="500">
+<img src="https://github.com/mlupo/artwork-docs/raw/master/images/Automatic_Affirmation-red.jpg" width="600">
 
 ## Basic Info
 - **Year:** 2014     
@@ -14,11 +14,11 @@ The Automatic Affirmation Device is your personal confidence booster that is nev
 The device is powered by a LED light, and two AAA batteries. In normal use, the batteries should last more than 4 years. Access to the batteries is possible by removing the 4 phillips screws which secure the back plate.
 
 ## Additional Images
-<img src="https://github.com/mlupo/artwork-docs/raw/master/images/Automatic_Affirmation-row.jpg" width="600">
+<img src="https://github.com/mlupo/artwork-docs/raw/master/images/Automatic_Affirmation-row.jpg" width="650">
 
 <img src="https://github.com/mlupo/artwork-docs/raw/master/images/Automatic_YES.gif">
 
 ## Further Reading
-- **Blog post:** <https://maxlupo.com/the-automatic-affirmation-device/>\
-- **Source files:** 3D printing sources for Version 2, <https://www.thingiverse.com/thing:7060>\   
+- **Blog post:** <https://maxlupo.com/the-automatic-affirmation-device/>
+- **Source files:** 3D printing sources for Version 2, <https://www.thingiverse.com/thing:7060>   
 - **Full resolution images:** <https://drive.google.com/drive/folders/1zjUPazpFdjb4juAJj-OG27j58QZ7upNX>  

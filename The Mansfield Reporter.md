@@ -1,6 +1,6 @@
 # The Mansfield Reporter
 
-<img src="https://github.com/mlupo/artwork-docs/raw/master/images/Mansfield_screen_off.JPG" width="600">
+<img src="https://github.com/mlupo/artwork-docs/raw/master/images/Mansfield_screen_off.JPG" width="650">
 
 ## Basic Info
 - **Year:** 2015     
@@ -20,11 +20,11 @@ The authors used were selected both for the clarity of their voice, and because 
 ### Tech Specs and Maintenance
 The work includes a Raspberry Pi connected to a tft screen. To power down the Raspberry Pi, the switch on the device's left side needs to be flipped. Once the Pi has shutdown, unplug the device's power source from the wall. To turn the device on, simply plug the power supply back into the wall. Once plugged in, the Pi will  boot up, and the program will automatically start running. No other intervention is needed for the artwork to be usable.
 
-As long as the outlined shutdown procedure is followed, there should be no other maintenance necessary. If the machine is not powered down correctly there is the small chance that the SD card running the device's software will become corrupted and need to be replaced. A pre-prepared replacement SD card will be provided, and its replacement just requires the removal of two roberston screws on the device's face to expose the Raspberry Pi's SD card slot.
+As long as the outlined shutdown procedure is followed, there should be no other maintenance necessary. If the machine is not powered down correctly there is the small chance that the Micro SD card running the device's software will become corrupted and need to be replaced. A pre-prepared replacement SD card will be provided, and its replacement just requires the removal of two roberston screws on the device's face to expose the Raspberry Pi's SD card slot.
 
 ## Additional Images
 
-<img src="https://github.com/mlupo/artwork-docs/raw/master/images/Mansfield_Reporter_02.JPG" width="600">
+<img src="https://github.com/mlupo/artwork-docs/raw/master/images/Mansfield_Reporter_02.JPG" width="650">
 
 <img src="https://github.com/mlupo/artwork-docs/raw/master/images/animated-decay.gif">
 

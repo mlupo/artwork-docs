@@ -1,6 +1,6 @@
 # I MADE THIS FOR YOU
 
-<img src="https://github.com/mlupo/artwork-docs/raw/master/images/I_Made_this_for_you.jpg" width="600">
+<img src="https://github.com/mlupo/artwork-docs/raw/master/images/I_Made_this_for_you.jpg" width="650">
 
 ## Basic Info
 - **Year:** 2015    
@@ -17,9 +17,9 @@ The exhibition takes a humorous and strange set of objects, and places them a bi
 
 ## Additional Images
 
-<img src="https://github.com/mlupo/artwork-docs/raw/master/images/I_Made_this_balloon.jpg" width="600">
+<img src="https://github.com/mlupo/artwork-docs/raw/master/images/I_Made_this_balloon.jpg" width="650">
 
-<img src="https://github.com/mlupo/artwork-docs/raw/master/images/I_made_this_piano.jpg" width="600">
+<img src="https://github.com/mlupo/artwork-docs/raw/master/images/I_made_this_piano.jpg" width="650">
 
 ## Further Reading
 - **Blog post:** <https://maxlupo.com/i-made-this-for-you/>    
