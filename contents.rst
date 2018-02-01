@@ -4,7 +4,7 @@ Documentation contents
 =============================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    The Automatic Affirmation Device
    The Mansfield Reporter
