@@ -20,7 +20,7 @@ The Dial Me a Story Phone is a device made to help bring a little story into you
 
 Tech Specs and Maintenance
 ------------------------------
-This device includes an embedded Arduino microcontroller and a standard SD card. To power up or down the device simply flip the inline power switch. It is recommended to power down the artwork at the end of the day. This is a durable artwork that has been exhibited multiple times without incident. As there are no writes being made to the SD card it is **very** unlikely that the it can become corrupted, but a back-up card is hidden in the device if this were to happen. Access to the electronics is provided by pressing down a clip on the bottom of the phone's base.
+This device includes an embedded Arduino microcontroller and a standard SD card. To power up or down the device simply flip the inline power switch. It is recommended to power down the artwork at the end of the day. This is a durable artwork that has been exhibited multiple times without incident. As there are no writes being made to the SD card it is **very** unlikely that it can become corrupted, but a back-up card is hidden in the device if this were to happen. Access to the electronics is provided by pressing down a clip on the bottom of the phone's base.
 
 Further Reading
 ==================
