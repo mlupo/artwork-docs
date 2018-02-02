@@ -1,4 +1,3 @@
-
 Dial Me a Story Phone
 *********************
 .. image:: ./images/Dial_Me_a_story.jpg
@@ -15,9 +14,9 @@ Description
 The Dial Me a Story Phone is a device made to help bring a little story into your ear. The body is a classic Northern Telecom rotary phone, but when a number is dialed a story stored on the phone will play through the ear piece. Around the time this project began I was having some oddly vivid dreams which I wrote down upon waking. As a result, the first set of stories on the device were a selection of dreams that I recorded. During the first exhibition that included the phone, I offered visitors an opportunity to record their own stories on a voice recorder, or write it down on a typewriter. Most of these stories are now on the phone, and I am always trying to accumulate more.
 
 .. raw:: html
-<div class="videoWrapper">
+    <div class="videoWrapper">
     <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fHtOo81_-xk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
+    </div>
 
 Tech Specs and Maintenance
 ------------------------------
