@@ -2,7 +2,7 @@
 
 Documentation contents
 =============================
-
+.. _devices:
 .. toctree::
    :maxdepth: 1
    :caption: Devices
@@ -12,7 +12,9 @@ Documentation contents
    The Mansfield Reporter
    Dial Me A Story Phone
 
+.. _performance-installation:
 .. toctree::
     :maxdepth: 1
     :caption: Performances/Installations
+
     I MADE THIS FOR YOU

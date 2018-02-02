@@ -14,7 +14,7 @@ The Ultimate Indecision Machine is a device that will never help you make up you
 . . .<br>
 *Should I finally do that one thing. . . or not?*<br>
 
-Ask any question while holding the button down on the face of the device. Release the button and watch as the needle snaps to the center-line, right inbetween yes and no.
+Ask any question while holding the button down on the face of the device. Release the button and watch as the needle snaps to the center-line, right in-between yes and no.
 
 ### Tech Specs and Maintenance
 The device contains a small dc motor, powered by a single AA battery. The battery should last about a year with regular use.
