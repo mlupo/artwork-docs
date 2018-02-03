@@ -7,7 +7,7 @@ The Mansfield Reporter
 Basic Info
 =============
 - **Year:** 2015
-- **Materials:** Vintage 8mm editing station, [Raspberry Pi](https://www.raspberrypi.org/)
+- **Materials:** Vintage 8mm editing station, `Raspberry Pi <https://www.raspberrypi.org/>`_
 - **Dimensions:**  w 11", h 8", d 6"
 
 Description
@@ -19,7 +19,7 @@ The Mansfield Reporter is a simple device which can generate new text from some 
     <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pomt0gw3bvc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
-The device pictured above is the main implementation of this artwork: the embedded screen shows the generated text one word at a time against a selected image. However, the process has been adapted to generate videos for live projection, or to post text and gifs to a [twitter feed](https://twitter.com/yupsurewhatever).
+The device pictured above is the main implementation of this artwork: the embedded screen shows the generated text one word at a time against a selected image. However, the process has been adapted to generate videos for live projection, or to post text and gifs to a `twitter feed <https://twitter.com/yupsurewhatever>`_.
 
 The authors used were selected both for the clarity of their voice, and because they have large bodies of work in the public domain.
 
