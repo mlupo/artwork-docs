@@ -19,6 +19,7 @@ Documentation contents
     :caption: Performances/Installations
 
     I MADE THIS FOR YOU
+    Beep-Boopatronics
 
 .. .. _video-games:
 ..     .. toctree::
