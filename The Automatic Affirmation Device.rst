@@ -28,5 +28,6 @@ Additional Images
 Further Reading
 ===============
 - **Blog post:** https://maxlupo.com/the-automatic-affirmation-device/
-- **Source files:** 3D printing sources for Version 2, https://www.thingiverse.com/thing:7060
 - **Full resolution images:** https://drive.google.com/drive/folders/1zjUPazpFdjb4juAJj-OG27j58QZ7upNX
+- **Source files:**
+    - 3D printing sources for Version 2, https://www.thingiverse.com/thing:7060

@@ -33,7 +33,7 @@ Additional images
 Further Reading
 ==================
 - **Blog post:** https://maxlupo.com/just-another-beep-boop-machine/
-- **Source files:**
-    - Code running on the device: https://github.com/mlupo/music-punch
-    - 3D printer files: http://www.thingiverse.com/thing:1305712
 - **Full resolution images:** https://drive.google.com/drive/folders/1Aj0vJUzPZ4ZRAwEEnRUUYlsMdmx7lrOi
+- **Source files:**
+    - Source code running on the device: https://github.com/mlupo/music-punch
+    - 3D printer files: http://www.thingiverse.com/thing:1305712
