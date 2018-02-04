@@ -21,9 +21,9 @@ Documentation contents
     I MADE THIS FOR YOU
     Beep-Boopatronics
 
-.. .. _video-games:
-..     .. toctree::
-..     :maxdepth: 1
-..     :caption: Video Games
-..
-..     Space Kilim
+.. _video-games:
+    .. toctree::
+    :maxdepth: 1
+    :caption: Video Games
+
+    Space Kilim
