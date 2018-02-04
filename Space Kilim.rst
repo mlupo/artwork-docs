@@ -2,9 +2,9 @@ Space Kilim
 *********************
 .. raw:: html
 
-    <iframe src="kilim.html" height="650px" width="600px"></iframe>
+    <iframe src="kilim_game.html" height="650px" width="600px"></iframe>
 
-*once the game is loaded, press Z to begin playing. Z fires lasers, and the arrow keys move.*
+*Once the game is loaded, clickon the game screen and press Z to begin playing. Z fires lasers, and the arrow keys move.*
 
 Basic Info
 ==========
@@ -18,8 +18,6 @@ This game was made in colloaboration with Qendrim Hoti for our duo exhibition `G
 
 .. image:: ./images/kilim_5.gif
     :width: 400px
-    :align: "center"
-    :alt: "Space Kilim gif"
 
 A `kilim <https://en.wikipedia.org/wiki/Kilim>`_ is a hand woven rug found in Morocco, Turkey, and Albania. The motifs used in the game are from a number of textiles in Qendrim's collection.
 
