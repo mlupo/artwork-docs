@@ -22,7 +22,7 @@ Documentation contents
     Beep-Boopatronics
 
 .. _video-games:
-    .. toctree::
+.. toctree::
     :maxdepth: 1
     :caption: Video Games
 
