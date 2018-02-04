@@ -16,7 +16,7 @@ Text
 
 .. raw:: html
 
-    <iframe src="space_kilim.html" height="345px" width="100%"></iframe>
+    <iframe src="kilim.html" height="345px" width="100%"></iframe>
 
 Tech Specs and Maintenance
 ------------------------------
