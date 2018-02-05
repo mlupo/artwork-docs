@@ -3,7 +3,7 @@ Space Kilim
 .. image:: ./images/kilim_5.gif
     :width: 400px
 
-*The game can be played online here: https://www.lexaloffle.com/bbs/?pid=48975 *
+*The game can be played online here: <https://www.lexaloffle.com/bbs/?pid=48975>*
 
 Basic Info
 ==========
@@ -25,7 +25,7 @@ Technical details
 The game itself can be played on any modern computer, either as a native executable or through a web-browser. In its initial installation, the game was played via a ceiling mounted projector which projected the game down onto a white fur rug. In this installation, a dedicated controller was provided.
 
 
-installation Images
+Installation Images
 ====================
 .. image:: ./images/Kilim_2.JPG
     :width: 650px

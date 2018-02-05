@@ -26,4 +26,5 @@ Documentation contents
     :maxdepth: 1
     :caption: Video Games
 
+    Super Lupo Bros.
     Space Kilim
