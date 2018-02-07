@@ -12,7 +12,7 @@ Basic Info
 
 Description
 ===========
-Super Lupo Bros. is a `mod <https://en.wikipedia.org/wiki/Mod_(video_gaming)>`_ of the classic NES game, Super Mario Bros. The impetus for this project was to take an example from my childhood video gaming experiences and insert my childhood back into that game. To complete this project, I edited a `rom <(https://en.wikipedia.org/wiki/ROM_image) >`_ of the original game, in order to swap the Mario sprite with one that more closely resembles me.
+Super Lupo Bros. is a `mod <https://en.wikipedia.org/wiki/Mod_(video_gaming)>`_ of the classic NES game, Super Mario Bros. The impetus for this project was to take an example from my childhood video gaming experiences and insert my childhood back into that game. To that end, I edited a `rom <(https://en.wikipedia.org/wiki/ROM_image) >`_ of the original game, in order to swap the Mario sprite with one that more closely resembles me.
 
 .. image:: ./images/Super_Lupo_Bros_2.png
     :width: 650px

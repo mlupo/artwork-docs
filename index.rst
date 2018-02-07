@@ -12,6 +12,7 @@ Documentation contents
    The Mansfield Reporter
    Dial Me A Story Phone
    Just Another Beep-Boop Machine
+   The Thermal Printing Doorbell
 
 .. _performance-installation:
 .. toctree::
