@@ -31,11 +31,11 @@ Below are two example stories which can be found on the device.
 .. raw:: html
 
     <audio controls="">
-        <source src="foo.mp3" type="audio/mpeg"/>
+        <source src="https://github.com/mlupo/artwork-docs/blob/master/assets/Duckling.mp3?raw=true" type="audio/mpeg"/>
     </audio>
 
     <audio controls="">
-        <source src="foo.mp3" type="audio/mpeg"/>
+        <source src="https://github.com/mlupo/artwork-docs/blob/master/assets/Jobs.mp3?raw=true" type="audio/mpeg"/>
     </audio>
 
 Also, here is a playlist of the vibes used as a background track:

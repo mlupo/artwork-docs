@@ -11,6 +11,7 @@ Documentation contents
    The Ultimate Indecision Machine
    The Mansfield Reporter
    Dial Me A Story Phone
+   Slounge Chair
    Just Another Beep-Boop Machine
    The Thermal Printing Doorbell
 
@@ -27,5 +28,6 @@ Documentation contents
     :maxdepth: 1
     :caption: Video Games
 
-    Super Lupo Bros.
     Space Kilim
+    Super Lupo Bros.
+    Dante's Inferno
