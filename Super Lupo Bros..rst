@@ -12,10 +12,9 @@ Basic Info
 
 Description
 ===========
-Super Lupo Bros. is a `mod <https://en.wikipedia.org/wiki/Mod_(video_gaming)>`_ of the classic NES game, Super Mario Bros. The impetus for this project was to take an example from my childhood video gaming experiences and insert my childhood back into that game. To that end, I edited a `rom <(https://en.wikipedia.org/wiki/ROM_image) >`_ of the original game, in order to swap the Mario sprite with one that more closely resembles me.
+Super Lupo Bros. is a `mod <https://en.wikipedia.org/wiki/Mod_(video_gaming)>`_ of the classic NES game, Super Mario Bros. The impetus for this project was to take an example from my childhood video gaming experiences and insert my childhood back into that game. To that end, I edited a `rom <(https://en.wikipedia.org/wiki/ROM_image)>`_ of the original game, in order to swap the Mario sprite with one that more closely resembles me.
 
-.. image:: ./images/Super_Lupo_Bros_2.png
-    :width: 650px
+.. image:: ./images/run+jump_Max_no_title.gif
 
 The modded version of the game has been loaded onto a cartridge that is playable in a real NES system. This was an important aspect of the project, as I wanted the sense of playing the game to fit into a player's memories and feelings of nostalgia. In it's most recent presentation, the installation explicitly referenced a home gaming environment, in order to help facilitate a gallery goers participation with the game.
 
@@ -25,7 +24,8 @@ As noted above, the game is meant to run on vintage hardware using a number of s
 
 Additional Images
 ===================
-.. image:: ./images/run+jump_Max_no_title.gif
+.. image:: ./images/Super_Lupo_Bros_2.png
+    :width: 650px
 
 .. image:: ./images/Super_Lupo_install.JPG
     :width: 650px

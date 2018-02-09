@@ -27,7 +27,7 @@ Tech Specs and Maintenance
 ------------------------------
 The work includes a Raspberry Pi connected to a tft screen. To power down the Raspberry Pi, the switch on the device's left side needs to be flipped. Once the Pi has shutdown, unplug the device's power source from the wall. To turn the device on, simply plug the power supply back into the wall. Once plugged in, the Pi will  boot up, and the program will automatically start running. No other intervention is needed for the artwork to be usable.
 
-As long as the outlined shutdown procedure is followed, there should be no other maintenance necessary. If the machine is not powered down correctly there is the small chance that the Micro SD card running the device's software will become corrupted and need to be replaced. A pre-prepared replacement SD card will be provided, and its replacement just requires the removal of two roberston screws on the device's face to expose the Raspberry Pi's SD card slot.
+As long as the outlined shutdown procedure is followed, there should be no other maintenance necessary. If the machine is not powered down correctly there is the small chance that the Micro SD card running the device's software will become corrupted and need to be replaced. A pre-prepared replacement SD card will be provided, and its replacement just requires the removal of two roberston screws on the device's face to expose the Raspberry Pi's SD card slot. This device requires power from an outlet to operate.
 
 Additional Images
 ====================

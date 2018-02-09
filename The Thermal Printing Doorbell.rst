@@ -1,5 +1,5 @@
 The Thermal Printing Doorbell (Version 2)
-*********************
+******************************************
 
 .. image:: ./images/Thermal_Printing_doorbells.jpg
     :width: 650px
@@ -18,9 +18,9 @@ This is the Thermal Printing Doorbell. It plays a little melody, then leaves you
 
 Tech Specs and Maintenance
 ------------------------------
-In terms of technology, the device includes an Arduino, a thermal printer, a small remote which provides the ringer button. The remote is powered by 2 `CR2016 <https://www.amazon.com/Energizer-CR2016-Lithium-Battery-3V/dp/B000RB00CK>`_ coincell batteries, which should last 2 years with normal use. The thermal printing paper used is `this one here from Staples <https://www.staples.ca/en/Staples-Thermal-POS-Solid-Wall-Core-2-1-4-x-60-35-Pack/product_1587850_1-CA_1_20001>`_, or anything that is a similar size.
+In terms of technology, the device includes an Arduino, a thermal printer, and a small remote which provides the ringer button. The remote is powered by 2 `CR2016 <https://www.amazon.com/Energizer-CR2016-Lithium-Battery-3V/dp/B000RB00CK>`_ coincell batteries, which should last 2 years with normal use. The thermal printing paper used is `this one here from Staples <https://www.staples.ca/en/Staples-Thermal-POS-Solid-Wall-Core-2-1-4-x-60-35-Pack/product_1587850_1-CA_1_20001>`_, or anything that is a similar size.
 
-The main device has a single power switch. Once flipped on, the green light beside the printer will slowly flash, and the device is immediately usable. To power down, simply flip the switch to its off position.
+The main device has a single power switch. Once flipped on, the green light beside the printer will slowly flash, and the device is immediately usable. To power down, simply flip the switch to its off position. This device requires power from an outlet to operate.
 
 Installation Image
 ==================
