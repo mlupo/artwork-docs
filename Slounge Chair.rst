@@ -12,7 +12,7 @@ Basic Info
 
 Description
 ===========
-The Slounge Chair is a sound instalation made for the exhibition `Galaxy Champion FUN ZONE <https://maxlupo.com/galaxy-champion-fun-zone/>`_. That exhibition was concerned with using the tools and aesthetics of video game sto explore the migrant histories of `Qendrim Hoti <http://qendrimhoti.com/>`_ and I. The structure of the piece is a "Gaming Chair"--essentially a rocking chair with speakers built in. Using this form, I inserted stories form my parents' arrival and acclimation to Canada, as well as their stories about their parents' life in Italy. In the Slounge Chair's newest incarnation, these stories are activated by a participant sitting down and rocking in the chair. Once the participant has done so, a soothing vibe will start to play followed by a recorded story.
+The Slounge Chair is a sound instalation made for the exhibition `Galaxy Champion FUN ZONE <https://maxlupo.com/galaxy-champion-fun-zone/>`_. That exhibition was concerned with using the tools and aesthetics of video games to explore the migrant histories of `Qendrim Hoti <http://qendrimhoti.com/>`_ and I. The structure of the piece is a "Gaming Chair"--essentially a rocking chair with speakers built in. Using this form, I inserted stories form my parents' arrival and acclimation to Canada, as well as their stories about their parents' life in Italy. In the Slounge Chair's newest incarnation, these stories are activated by a participant sitting down and rocking in the chair. Once the participant has done so, a soothing vibe will start to play followed by a recorded story.
 
 Tech Specs and Maintenance
 ------------------------------
@@ -37,6 +37,8 @@ Below are two example stories which can be found on the device.
     <audio controls="">
         <source src="https://github.com/mlupo/artwork-docs/blob/master/assets/Jobs.mp3?raw=true" type="audio/mpeg"/>
     </audio>
+    <br> <br>
+
 
 Also, here is a playlist of the vibes used as a background track:
 
