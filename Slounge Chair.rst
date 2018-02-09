@@ -12,15 +12,13 @@ Basic Info
 
 Description
 ===========
-The Slounge Chair is a sound instalation made for the exhibition `Galaxy Champion FUN ZONE <https://maxlupo.com/galaxy-champion-fun-zone/>`_. That exhibition was concerned with using the tools and aesthetics of video games to explore the migrant histories of `Qendrim Hoti <http://qendrimhoti.com/>`_ and I. The structure of the piece is a "Gaming Chair"--essentially a rocking chair with speakers built in. Using this form, I inserted stories form my parents' arrival and acclimation to Canada, as well as their stories about their parents' life in Italy. In the Slounge Chair's newest incarnation, these stories are activated by a participant sitting down and rocking in the chair. Once the participant has done so, a soothing vibe will start to play followed by a recorded story.
+The Slounge Chair is a sound installation made for the exhibition `Galaxy Champion FUN ZONE <https://maxlupo.com/galaxy-champion-fun-zone/>`_. That exhibition was concerned with using the tools and aesthetics of video games to explore the migrant histories of `Qendrim Hoti <http://qendrimhoti.com/>`_ and I. The structure of the piece is a "gaming chair"--essentially a rocking chair with speakers built in. Using this form, I inserted stories form my parents' arrival and acclimation to Canada, as well as their stories about their parents' life in Italy. In the Slounge Chair's newest incarnation, these stories are activated by a participant sitting down and rocking in the chair. Once the participant has done so, a soothing vibe will start to play followed by a recorded story.
 
 Tech Specs and Maintenance
 ------------------------------
-The artwork relies on a Raspberry Pi embedded within the device. To power it up, plug in the two barrel jacks on the devices lower right side. The chair’s speakers have a power on button which needs to pressed if not already on, and make sure the volume knob is turned to somewhere in the middle. The computer will power-up on its own once plugged in and take about 3 minutes to automatically start its program. Once started it can remain active all day.
+The artwork relies on a Raspberry Pi embedded within the device. To power it up, plug in the two barrel jacks on the devices lower right side. The computer will power-up on its own and take about 3 minutes to automatically start its program. Once started it can remain active all day.
 
-To power down, hold the small black button down for 5 seconds. This will shutdown the computer inside the device. After about 1 minute, pull out the barrel jacks  to fully power down the device. If the barrel jacks are not removed, the device might not power on as these instructions have described.
-
-I will provide an illustrated version of these instructions for the gallery attendants.
+To power down, hold the small black button down for 5 seconds. This will shutdown the computer inside the device. After about 1 minute, pull out the barrel jacks  to fully power down the device. I will provide an illustrated version of these instructions for the gallery attendants.
 
 
 Sample Stories
