@@ -3,7 +3,7 @@ Space Kilim
 .. image:: ./images/kilim_5.gif
     :width: 400px
 
-*The game can be played online here: <https://www.lexaloffle.com/bbs/?pid=48975>*
+*The game can be played online here: https://www.lexaloffle.com/bbs/?pid=48975*
 
 Basic Info
 ==========
@@ -22,7 +22,7 @@ A `kilim <https://en.wikipedia.org/wiki/Kilim>`_ is a hand woven rug found in Mo
 
 Technical details
 ------------------------------
-The game itself can be played on any modern computer, either as a native executable or through a web-browser. In its initial installation, the game was played via a ceiling mounted projector which projected the game down onto a white fur rug. In this installation, a dedicated controller was provided.
+The game itself can be played on any modern computer, either as a native executable or through a web-browser. In its initial installation, the game was played via a ceiling mounted projector which projected the game down onto a white fur rug. In this installation, the game stayed on continuously and a dedicated controller was provided, allowing it to be played by a gallery goer immediately.
 
 
 Installation Images

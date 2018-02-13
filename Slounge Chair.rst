@@ -16,9 +16,9 @@ The Slounge Chair is a sound installation made for the exhibition `Galaxy Champi
 
 Tech Specs and Maintenance
 ------------------------------
-The artwork relies on a Raspberry Pi embedded within the device. To power it up, plug in the two barrel jacks on the devices lower right side. The computer will power-up on its own and take about 3 minutes to automatically start its program. Once started it can remain active all day.
+The artwork relies on a Raspberry Pi embedded within the device. To power it up, plug in the two barrel jacks on the chair's lower right side. The computer will power-up on its own and take about 3 minutes to automatically start its program. Once started it can remain active all day.
 
-To power down, hold the small black button down for 5 seconds. This will shutdown the computer inside the device. After about 1 minute, pull out the barrel jacks  to fully power down the device. I will provide an illustrated version of these instructions for the gallery attendants.
+To power down, hold down the small black button for 5 seconds. This will shutdown the computer inside the device. After about 1 minute, pull out the barrel jacks  to fully power down the device. I will provide an illustrated version of these instructions for the gallery attendants.
 
 
 Sample Stories

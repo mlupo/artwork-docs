@@ -42,5 +42,5 @@ Additional Images
 Further Reading
 ===============
 - **Blog post:** https://maxlupo.com/mansfield-reporter/
-- **Full resolution images:** https://drive.google.com/drive/folders/1PHH9C1Y3jwUbRDI2Ql60bMIWz6fIhCgK *note: the gifs in that folder will need to be downloaded to be viewed*
+- **Full resolution images:** https://drive.google.com/drive/folders/1PHH9C1Y3jwUbRDI2Ql60bMIWz6fIhCgK
 - **Source files:** *forthcoming*
