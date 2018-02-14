@@ -16,9 +16,7 @@ This performance was part of an exhibition at Georgian College in Barrie, Ontari
 
 .. raw:: html
 
-    <div width = "560">
-        <iframe width="%100" height="315" src="https://www.youtube-nocookie.com/embed/Z8z9Puo24y8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-    </div>
+    <iframe width="%100" height="315" src="https://www.youtube-nocookie.com/embed/Z8z9Puo24y8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 The exhibition takes a humorous and strange set of objects, and places them a bit closer to a personal context: these things that I made for you.
 
