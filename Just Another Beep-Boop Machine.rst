@@ -22,7 +22,7 @@ Tech Specs and Maintenance
 ------------------------------
 This artwork contains a small microcontroller running `Micropython <https://micropython.org/>`_. The device can be powered down by simply pulling its power supply out from the wall. It is recommended to power the device down at night. Once it is plugged back in, it will automatically start up and be ready for input.
 
-In terms of ongoing maintenance, the device relies on a punching holes into cards I have made specifically for the machine. The hole punches and paper are provided, and can be used by any participant. This device requires power from an outlet to operate.
+In terms of ongoing maintenance, the device relies on punching holes into cards I have made specifically for the machine. The hole punches and paper are provided, and can be used by any participant. This device requires power from an outlet to operate.
 
 Additional images
 =================
