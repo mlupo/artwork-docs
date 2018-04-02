@@ -22,6 +22,7 @@ Documentation contents
 
     I MADE THIS FOR YOU
     Beep-Boopatronics
+    Postcard Return Project
 
 .. _video-games:
 .. toctree::
@@ -31,3 +32,10 @@ Documentation contents
     Space Kilim
     Super Lupo Bros.
     Dante's Inferno
+
+.. _two-dimensional-work:
+.. toctree::
+    :maxdepth: 1
+    :caption: Two Dimensional Work
+
+    Polaroids
