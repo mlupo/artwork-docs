@@ -39,3 +39,4 @@ Documentation contents
     :caption: Two Dimensional Work
 
     Polaroids
+    Plot Lines

@@ -3,7 +3,7 @@ Space Kilim
 .. image:: ./images/kilim_5.gif
     :width: 400px
 
-*The game can be played online here: https://www.lexaloffle.com/bbs/?pid=48975*
+*The game can be played online here: https://www.lexaloffle.com/bbs/?pid=48975 *
 
 Basic Info
 ==========
