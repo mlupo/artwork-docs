@@ -23,6 +23,7 @@ Documentation contents
     I MADE THIS FOR YOU
     Beep-Boopatronics
     Postcard Return Project
+    The Convenient Typer
 
 .. _video-games:
 .. toctree::
