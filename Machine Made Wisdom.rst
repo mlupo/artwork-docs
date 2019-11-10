@@ -1,4 +1,4 @@
-Plot Lines
+Machine Made Wisdom
 *********************
 
 .. image:: ./images/Max_Lupo_Platitudes.jpeg
