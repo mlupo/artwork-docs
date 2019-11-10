@@ -41,3 +41,4 @@ Documentation contents
 
     Polaroids
     Plot Lines
+    Machine Made Wisdom
