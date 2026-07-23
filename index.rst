@@ -7,6 +7,7 @@ Documentation contents
    :maxdepth: 1
    :caption: Devices
 
+   Untitled (typewriter)
    The Automatic Affirmation Device
    The Ultimate Indecision Machine
    The Mansfield Reporter
