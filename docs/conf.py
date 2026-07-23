@@ -5,10 +5,6 @@ extensions = [
 
 html_theme = "sphinx_rtd_theme"
 
-source_parsers = {
-    '.md': CommonMarkParser,
-}
-
 source_suffix = ['.rst', '.md']
 
 master_doc = 'index'
