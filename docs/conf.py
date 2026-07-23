@@ -1,5 +1,12 @@
 from recommonmark.parser import CommonMarkParser
 
+extensions = [
+    ...
+    'sphinx_rtd_theme',
+]
+
+html_theme = "sphinx_rtd_theme"
+
 source_parsers = {
     '.md': CommonMarkParser,
 }
