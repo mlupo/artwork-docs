@@ -5,9 +5,10 @@ Documentation contents
 .. _devices:
 .. toctree::
    :maxdepth: 1
-   :caption: Devices
+   :caption: Devices & Objects
 
    Untitled (typewriter)
+   The Margin Maker
    The Automatic Affirmation Device
    The Ultimate Indecision Machine
    The Mansfield Reporter
