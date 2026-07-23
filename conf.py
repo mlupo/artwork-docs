@@ -4,7 +4,7 @@ extensions = [
 
 html_theme = "sphinx_rtd_theme"
 
-source_suffix = ['.rst', '.md']
+source_suffix = {'.rst': 'restructuredtext', '.md': 'restructuredtext'}
 
 master_doc = 'index'
 project = u'The Max Lupo Artwork Documentation Archive'
