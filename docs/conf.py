@@ -1,7 +1,6 @@
 from recommonmark.parser import CommonMarkParser
 
 extensions = [
-    ...
     'sphinx_rtd_theme',
 ]
 
