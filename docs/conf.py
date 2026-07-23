@@ -1,6 +1,5 @@
-from recommonmark.parser import CommonMarkParser
-
 extensions = [
+    'recommonmark',
     'sphinx_rtd_theme',
 ]
 
