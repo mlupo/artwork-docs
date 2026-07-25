@@ -36,5 +36,5 @@ Installation Images
 Further Reading
 ==================
 - **Blog post:** *forthcoming*
-- **Full resolution images:** https://drive.google.com/open?id=1YpvsGiPNQBql8XtTB4PqyiPdQUQyAkFM
+- **Full resolution images:** https://drive.google.com/drive/folders/1Vnu3B-3blN2d5_5sWsj634DahQgZRwnb
 - **Play the game:** https://www.lexaloffle.com/bbs/?pid=48975
