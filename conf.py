@@ -2,7 +2,7 @@
 #     "sphinx-rtd-theme"
 # ]
 
-html_theme = 'sphinx-rtd-theme'
+html_theme = 'sphinx_rtd_theme'
 
 
 source_suffix = {'.rst': 'restructuredtext', '.md': 'restructuredtext'}
