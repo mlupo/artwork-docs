@@ -1,10 +1,10 @@
 extensions = [
-    'sphinx_rtd_theme',
+    "sphinx_wagtail_theme"
 ]
 
-html_theme = "sphinx_rtd_theme"
+html_theme = 'sphinx_wagtail_theme'
 
-source_suffix = {'.rst': 'restructuredtext', '.md': 'restructuredtext'}
+source_suffix = {'.rst': 'restructuredtext', '.md': 'markdown'}
 
 master_doc = 'index'
 project = u'The Max Lupo Artwork Documentation Archive'
