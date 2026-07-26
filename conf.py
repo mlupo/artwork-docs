@@ -1,6 +1,6 @@
-extensions = [
-    "sphinx-rtd-theme"
-]
+# extensions = [
+#     "sphinx-rtd-theme"
+# ]
 
 html_theme = 'sphinx-rtd-theme'
 

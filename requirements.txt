@@ -4,4 +4,3 @@ pillow
 mock
 commonmark
 recommonmark
-shibuya
