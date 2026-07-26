@@ -1,8 +1,8 @@
 extensions = [
-    "shibuya"
+    "sphinx-rtd-theme"
 ]
 
-html_theme = 'shibuya'
+html_theme = 'sphinx-rtd-theme'
 
 
 source_suffix = {'.rst': 'restructuredtext', '.md': 'restructuredtext'}
