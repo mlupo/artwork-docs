@@ -4,7 +4,7 @@ extensions = [
 
 html_theme = 'sphinx_wagtail_theme'
 
-source_suffix = {'.rst': 'restructuredtext', '.md': 'markdown'}
+source_suffix = {'.rst': 'restructuredtext', '.md': 'restructuredtext'}
 
 master_doc = 'index'
 project = u'The Max Lupo Artwork Documentation Archive'
