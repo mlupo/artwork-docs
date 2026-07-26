@@ -1,6 +1,9 @@
 .. _contents:
 
-Documentation contents
+.. important::
+Use the sidebar, or click through the links below to view the artwork.
+
+Portfolio contents
 =============================
 .. _devices:
 .. toctree::
